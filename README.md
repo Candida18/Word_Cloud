@@ -1,2 +1,7 @@
 # Word_Cloud
+<p align="left">
 Word Cloud is a data visualization technique used for representing text data in which the size of each word indicates its frequency or importance. Significant textual data points can be highlighted using a word cloud. Word clouds are widely used for analyzing data from social network websites.
+</p>
+<br>
+
+<img src="https://lh3.googleusercontent.com/5jiC2hRsaLaXZE71sdZnGIeoWWXJSw8Omo2W-9rrbku92Rr7eCgx9HNbwY-14pMie5IAjIFA9hJFi5o2yEGE8CLaoSWZmvs3P8qKq_iYO5Bzym2Syp2JGPg5axwb6xrX75hVU-FZQUIdWNXMZlPtFBC6fteoliioon5-YYJEDHJloi-xym-0kbgYvllR94SRv4MS5LtKvngR8DcTx8AS20a2Kd4YUrTiUut5xgDzi3IQx6YqBmRtxB2wGYooINwwSR518wn3dYcBheAv5etUDcF82M__4L5ROSKIFXCucpucH7rWbojnnPlGwLshor4jdbfarxcUXeKNdKqLFN0NdQXzJxVZB2MpQBIaYqXNrUQfNh1iBcwOh8ApC0mId0xxDbFlCVUVRWmS4HQClBwr7NLHSq3cS6pRxUvPajISFP4dBnwlm0MP98-mQC8lqUsO0V4kSg8DxAyxG3n0eJzfu2OFT9Hl8_51gufAC4gBGwjS6M7hGEGiAlLEajOeiRFO-XwnFuuA78TRoV04-uZ9cr-uVhXrFDI9Kc7nUQoDFdqXPuZ0_0iDB9UqwYKYFgCy3NcwCc9eCXh-o0MCSYX_MPC0ezI9Wu8rb_AkVPAwp6-PIyVtYU5gvKW26JOEWQo8dMl1yJynhDVVflcGOEP9sNZdkr4jmPBZ5BL-kh_VmDRypI8Kio_jkF60TjOX0k13pLtK8I8Kn2Y9nbOCfcIKlU4=w351-h184-no?authuser=0">
