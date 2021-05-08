@@ -2,4 +2,4 @@
 </p>
 <br>
 
-<kbd><img src=""><kbd>
+<kbd><img src="https://github.com/Candida18/Word_Cloud/blob/main/word_cloud.png"><kbd>
